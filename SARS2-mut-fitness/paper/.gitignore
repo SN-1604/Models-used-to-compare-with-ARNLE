@@ -1,0 +1,9 @@
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.bbl
+*.blg
+*(busy)
+paper.pdf
+paper_track_changes.pdf
