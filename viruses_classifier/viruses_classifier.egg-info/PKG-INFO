@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: viruses-classifier
+Version: 1.0.3
+Summary: Predict host of a virus based on its (possibly complete) genomic sequence
+Home-page: https://github.com/wojciech-galan/viruses_classifier
+Author: Wojciech Gałan
+Author-email: UNKNOWN
+License: GNU GPL v3.0
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7

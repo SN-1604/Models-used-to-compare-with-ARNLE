@@ -1,0 +1,4 @@
+include LICENSE.md
+include *.rst
+include viruses_classifier/conf.json
+recursive-include viruses_classifier/files *
